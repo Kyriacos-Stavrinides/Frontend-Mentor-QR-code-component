@@ -13,3 +13,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/Kyriacos-Stavrinides/Frontend-Mentor-QR-code-component)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- SCSS 
+- Flexbox
+- Mobile-first workflow
+
+## Author
+
+- Me
